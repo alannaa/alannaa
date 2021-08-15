@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Alanna, but most call me Lana.
+
+I’m a master’s student of computer science at Northeastern University.
+
+I’m currently seeking an internship that will contribute to my life pursuit of using programming to transform and improve the lives of people around the world.
+
+You can learn more at my [website](https://alannaa.github.io).
