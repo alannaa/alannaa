@@ -7,7 +7,7 @@
 I'm Lana. I'm a software engineer and master’s student of computer science at Northeastern University.
 
 - 😄 Pronouns: she/her
-- 🔭 I’m currently: a software engineer coop for [AWS](https://aws.amazon.com)
+- 🔭 I’m currently: a software engineer intern for [AWS](https://aws.amazon.com)
 - 🌱 Right now I’m learning: RXJava and Android!
 - 🤔 I’m looking for help with: getting started contributing to open source...
 - 💬 Ask me about: internship and career success tips 😎 
