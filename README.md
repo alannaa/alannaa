@@ -7,7 +7,7 @@
 I'm Lana. I'm a software engineer and former master’s student of computer science at Northeastern University.
 
 Currently...
-- 🔭 Working as: a software devlopment engineer at [AWS](https://aws.amazon.com)
+- 🔭 Working as: software devlopment engineer at [AWS](https://aws.amazon.com)
 - 🌱 Learning: all things IAAS/Cloud
 - 🤔 Looking for help with: getting started contributing to open source...
 - 💬 Ask me about: internship success tips 😎 
