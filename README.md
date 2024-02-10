@@ -26,5 +26,5 @@ Frameworks and tools: AWS AppConfig, AWS Cloudwatch, AWS Cloudtrail... all thing
 
 ### Things I've coded with in the past 
 
-Languages(in order): Kotlin, C, HTML/CSS/Javascript
+Languages: Kotlin, C, HTML/CSS, Javascript
 Frameworks and tools: Django, GraphQL, RXJava, Firebase, Postman
