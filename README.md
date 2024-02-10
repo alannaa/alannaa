@@ -4,11 +4,12 @@
 **alannaa/alannaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Lana. I'm a software engineer and master’s student of computer science at Northeastern University.
+I'm Lana. I'm a software engineer and former master’s student of computer science at Northeastern University.
 
-- 🔭 I’m currently: a software devlopment engineer  for [AWS](https://aws.amazon.com)
-- 🌱 Right now I’m learning: all things IAAS/Cloud
-- 🤔 I’m looking for help with: getting started contributing to open source...
+Currently...
+- 🔭 Working as: a software devlopment engineer  for [AWS](https://aws.amazon.com)
+- 🌱 Learning: all things IAAS/Cloud
+- 🤔 Looking for help with: getting started contributing to open source...
 - 💬 Ask me about: internship success tips 😎 
 - ⚡ Fun fact: I've lived in 4 different countries around the 🌎
 - 📫 How to reach me: 
