@@ -6,11 +6,10 @@
 
 I'm Lana. I'm a software engineer and master’s student of computer science at Northeastern University.
 
-- 😄 Pronouns: she/her
-- 🔭 I’m currently: a software engineer intern for [AWS](https://aws.amazon.com)
-- 🌱 Right now I’m learning: RXJava and Android!
+- 🔭 I’m currently: a software devlopment engineer  for [AWS](https://aws.amazon.com)
+- 🌱 Right now I’m learning: all things IAAS/Cloud
 - 🤔 I’m looking for help with: getting started contributing to open source...
-- 💬 Ask me about: internship and career success tips 😎 
+- 💬 Ask me about: internship success tips 😎 
 - ⚡ Fun fact: I've lived in 4 different countries around the 🌎
 - 📫 How to reach me: 
 <p>
@@ -19,8 +18,12 @@ I'm Lana. I'm a software engineer and master’s student of computer science at 
     <a href="https://alannapasco.github.io" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/-Personal%20Website-lightgrey/?style=for-the-badge" /></a> 
 </p>
 
-### Things I code with
+### Things I'm coding with right now:
 
-Languages: Java, Kotlin, C, Python, HTML/CSS  
+Languages(in order): Java, Python, Typescript
+Frameworks and tools: AWS AppConfig, AWS Cloudwatch, AWS Cloudtrail... all things AWS
+
+### Things I've coded with in the past 
+
+Languages(in order): Kotlin, C, HTML/CSS/Javascript
 Frameworks and tools: Django, GraphQL, RXJava, Firebase, Postman
-  
