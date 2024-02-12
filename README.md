@@ -22,9 +22,11 @@ Currently...
 ### Things I'm coding with right now:
 
 Languages(in order): Java, Python, Typescript
+
 Frameworks and tools: AWS AppConfig, AWS Cloudwatch, AWS Cloudtrail... all things AWS
 
 ### Things I've coded with in the past 
 
 Languages: Kotlin, C, HTML/CSS, Javascript
+
 Frameworks and tools: Django, GraphQL, RXJava, Firebase, Postman
